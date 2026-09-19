@@ -15,6 +15,3 @@ I work with **Python**, backend, algorithms, and university projects — from la
 
 `Python` · `Flask` · `SQL` · `Docker` · `JavaScript` · algorithms & data structures
 
-### Links
-
-- GitHub: [lvalukvlad](https://github.com/lvalukvlad)
